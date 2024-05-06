@@ -10,5 +10,5 @@ This project is an exchange matching engine for a stock/commodities market. It m
 
 ## Technical Details
 
-- **Programming Languages**: Can be implemented in any programming language or combination of languages.
+- **Programming Languages**: Implement in C++.
 - **Concurrency**: Utilizes multi-threading to handle multiple concurrent market transactions.
